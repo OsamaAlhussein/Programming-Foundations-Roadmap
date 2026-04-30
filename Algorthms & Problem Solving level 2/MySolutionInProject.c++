@@ -2,6 +2,9 @@
 #include<ctime>
 using namespace std ;
 
+/*ًWriting Program , A game simpl (Ston , Peper , Scissor) ,
+A game between the user and the computer . Here is the code and this is my solution */
+
 
 enum enGameChoice {Stone = 1, Paper = 2, Scissor = 3} ;
 
