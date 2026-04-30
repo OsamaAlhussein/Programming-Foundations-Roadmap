@@ -5,6 +5,13 @@
 
 using namespace std ;
 
+/*A writing program
+A simple game: rock, paper, scissors
+A game between the user and the computer
+Here is the code
+
+This solution method is from the person I'm taking the Algorithms and Problem-Solving Level 2 course with*/
+
 enum enGameChoise{Ston =1 , Paper =2 , Scissor=3};
 
 enum enWinner{Plyer1=1 , Computer =2 , Draw=3};
