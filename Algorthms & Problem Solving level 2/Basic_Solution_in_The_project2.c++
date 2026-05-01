@@ -3,6 +3,11 @@
 #include <ctime>      
 using namespace std;  
 
+/*This project is a sports game. For example, the user chooses the difficulty and type of question. 
+
+This solution method is from the person I'm taking the Algorithms and Problem-Solving Level 2 course with
+and I've practiced it before.  */
+
 enum enQusetionLevel {EasyLevel = 1 , MedLevel = 2 , HardLevel = 3 , Mix = 4};
 
 enum enOpertionType{Add = 1 , Sub = 2 , Mult = 3 , Div = 4 , MixOp = 5};
