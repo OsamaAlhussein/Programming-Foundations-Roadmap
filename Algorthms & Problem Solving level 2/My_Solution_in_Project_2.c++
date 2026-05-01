@@ -4,6 +4,9 @@
 #include<ctime>
 using namespace std ;
 
+/*This project is a sports game. For example, the user chooses the difficulty and type of question. 
+This is my solution for this project.*/
+
 enum enLevel{Easy=1 , Med=2 , Hard=3 , Mix=4};
 
 struct stGame{
