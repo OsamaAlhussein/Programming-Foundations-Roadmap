@@ -123,11 +123,11 @@ void PrintInfoStudentHighwst(stAllStudents  Student){
     for(int i=1 ; i<=Student.StudentOfNumber ; i++){
 
         if(Student.StudentList[i].Gread==Highest_Mark(Student)){
-            cout << "\n_______________[The Student]_______________\n";
+            cout << "\n_______________[The Student]_________________________\n";
             cout << "The Student with the Highest mark is : " << Student.HighestMark 
             << " | Student Full Name : " << Student.StudentList[i].FullName 
             << " | Id for him (" << Student.StudentList[i].Id << ") . "; 
-            cout << "\n___________________________________________\n";
+            cout << "\n_____________________________________________________\n";
             break; 
         }
 
