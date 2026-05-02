@@ -2,6 +2,11 @@
 #include<string>
 using namespace std ;
 
+/*This program is from a thinker.
+
+Input: The user enters the desired number of students and their information.
+Output: Information on the student with the highest score, information on the student with the lowest score, and the average of the students' scores.
+This is the solution to the program I wrote. */
 
 struct stInfoStudent{
     string FullName = "";
