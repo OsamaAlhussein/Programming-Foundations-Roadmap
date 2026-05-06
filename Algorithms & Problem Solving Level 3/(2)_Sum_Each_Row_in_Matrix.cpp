@@ -3,6 +3,9 @@
 #include<iomanip>
 using namespace std ;
 
+/*Write a program for a 3x3 array filled with numbers from 1 to 100, then print the sum of each row ,
+This is my solution.
+*/
 
 int RandomNumber(int From , int To){
 
