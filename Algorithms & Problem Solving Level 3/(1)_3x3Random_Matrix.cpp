@@ -4,7 +4,7 @@
 using namespace std ;
 
 
-/*Writing a program for a 3x3 array filled with numbers from 1 to 100, and finally printing it , 
+/*Writing a program for a 3x3 array filled with Random numbers from 1 to 100, and finally printing it , 
 This is my solution.*/
 
 int RandomNumber(int From , int To){
