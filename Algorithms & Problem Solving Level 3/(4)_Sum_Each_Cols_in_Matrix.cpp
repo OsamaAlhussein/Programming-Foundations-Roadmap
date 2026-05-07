@@ -3,7 +3,7 @@
 #include<iomanip>
 using namespace std ;
 
-/*Write a program for a 3x3 array filled with numbers from 1 to 100, then print the sum of each column, 
+/*Write a program for a 3x3 array filled with Random numbers from 1 to 100, then print the sum of each column, 
 This is my solution.
 */
 
