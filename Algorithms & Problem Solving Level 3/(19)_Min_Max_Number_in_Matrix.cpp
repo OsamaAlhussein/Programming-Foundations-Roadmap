@@ -2,7 +2,9 @@
 #include<iomanip>
 using namespace std ;
 
-
+/*This program is a 3x3 array filled with numbers;
+ it prints the smallest and largest numbers.
+  This is my solution */
 
 
 void PrintMatrix(int Matrix[3][3] , short Rows , short Cols){
