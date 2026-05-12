@@ -35,7 +35,7 @@ int main()
     string S1 = ReadString();
     cout << "\nString after conversion:\n";  
      S1 = UpperFirstLetterEachOfWord(S1);
-    cout << S1 ;
+    cout << S1 << endl ;
     system("pause>0");
 
 return 0;
