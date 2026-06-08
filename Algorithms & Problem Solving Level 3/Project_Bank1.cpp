@@ -4,6 +4,16 @@
 #include <vector>
 #include <iomanip>
 using namespace std;
+
+/*This program is like a mini-bank. For example,
+I have a file containing employee information for this bank. Through this program,
+I can access employee information, 
+add new employees, delete employees,
+and search for employees using their account number.
+This is the solution I was trained on.
+*/
+
+
 const string ClientsFileName = "Clients.txt";
 void ShowMainMenue();
 struct sClient
