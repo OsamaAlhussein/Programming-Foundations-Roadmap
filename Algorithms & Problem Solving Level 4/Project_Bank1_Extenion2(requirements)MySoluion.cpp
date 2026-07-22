@@ -1,3 +1,9 @@
+
+/*This project builds upon the "Algorithms and Problem Solving – Level 3" course project. 
+Bank user functionalities requiring a username and password have been added, 
+where entering the correct credentials grants access to the main interface.
+Here is my solution.*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
