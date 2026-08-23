@@ -1,3 +1,8 @@
+/*After grasping the fundamentals of object-oriented programming, 
+I applied what I learned to this simple example.
+The best is yet to come—I am a curious person.
+*/
+
 #include<iostream>
 using namespace std ;
 
