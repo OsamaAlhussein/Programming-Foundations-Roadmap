@@ -23,10 +23,17 @@ class clsA{
 
     friend class clsB ;
 
+    friend int MySum(clsA A) ;
+
 };
 
 
-class clsB{
+
+int MySum(clsA A){   // Friend Function
+    return A.Var3 + A.__Var2 + A._Var1  ;
+}
+
+class clsB{   // Friend class 
 
     public:
     void Display(clsA A){
@@ -42,5 +49,7 @@ int main(){
     clsA A ;
     clsB B ;
     B.Display(A)  ;
+
+    cout<< endl << "Sum Var1 , Var2 , and Var3 = " << MySum(A)  ;
     return 0;
 }
