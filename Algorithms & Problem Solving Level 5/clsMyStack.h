@@ -12,7 +12,7 @@ public :
 	
 	void push(T Item)
 	{
-		clsMyQueue <T>::_MyList.InsertAtBeginning(Item);
+		clsMyQueue <T>::_MyQueue.InsertAtBeginning(Item);
 	}
 
 	T Top()
